@@ -18,6 +18,7 @@ class Url extends Model
         'description',
         'tags',
         'data',
+        'score'
     ];
 
     protected $casts = [
